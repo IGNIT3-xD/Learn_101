@@ -38,6 +38,7 @@ elif randNum == 2:
 elif randNum == 3:
     com = 'sc'
 
+# Function Declere
 x = game(playerInp, com)
 
 print(f"You Choose ▶ {playerInp}")
