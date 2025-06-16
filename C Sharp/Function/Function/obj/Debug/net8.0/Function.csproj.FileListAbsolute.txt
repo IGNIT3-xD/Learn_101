@@ -1,0 +1,15 @@
+D:\Coding Playground\C Sharp\Function\Function\bin\Debug\net8.0\Function.exe
+D:\Coding Playground\C Sharp\Function\Function\bin\Debug\net8.0\Function.deps.json
+D:\Coding Playground\C Sharp\Function\Function\bin\Debug\net8.0\Function.runtimeconfig.json
+D:\Coding Playground\C Sharp\Function\Function\bin\Debug\net8.0\Function.dll
+D:\Coding Playground\C Sharp\Function\Function\bin\Debug\net8.0\Function.pdb
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\Function.AssemblyInfoInputs.cache
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\Function.AssemblyInfo.cs
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\Function.csproj.CoreCompileInputs.cache
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\Function.sourcelink.json
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\Function.dll
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\refint\Function.dll
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\Function.pdb
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\Function.genruntimeconfig.cache
+D:\Coding Playground\C Sharp\Function\Function\obj\Debug\net8.0\ref\Function.dll

@@ -1,0 +1,15 @@
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\bin\Debug\net8.0\Class & Object.exe
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\bin\Debug\net8.0\Class & Object.deps.json
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\bin\Debug\net8.0\Class & Object.runtimeconfig.json
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\bin\Debug\net8.0\Class & Object.dll
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\bin\Debug\net8.0\Class & Object.pdb
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\Class & Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\Class & Object.AssemblyInfoInputs.cache
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\Class & Object.AssemblyInfo.cs
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\Class & Object.csproj.CoreCompileInputs.cache
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\Class & Object.sourcelink.json
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\Class & Object.dll
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\refint\Class & Object.dll
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\Class & Object.pdb
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\Class & Object.genruntimeconfig.cache
+D:\Coding Playground\C Sharp\Class & Object\Class & Object\obj\Debug\net8.0\ref\Class & Object.dll

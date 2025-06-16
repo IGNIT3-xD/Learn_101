@@ -1,3 +1,9 @@
 {
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "C_Cpp.default.compilerPath": "D:oding Playground Programming.c",
+    "C_Cpp.errorSquiggles": "disabled",
+    "cSpell.words": [
+        "Enyer",
+        "Ignit"
+    ]
 }

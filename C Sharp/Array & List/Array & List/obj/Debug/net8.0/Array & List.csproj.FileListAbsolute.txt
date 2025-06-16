@@ -1,0 +1,15 @@
+D:\Coding Playground\C Sharp\Array & List\Array & List\bin\Debug\net8.0\Array & List.exe
+D:\Coding Playground\C Sharp\Array & List\Array & List\bin\Debug\net8.0\Array & List.deps.json
+D:\Coding Playground\C Sharp\Array & List\Array & List\bin\Debug\net8.0\Array & List.runtimeconfig.json
+D:\Coding Playground\C Sharp\Array & List\Array & List\bin\Debug\net8.0\Array & List.dll
+D:\Coding Playground\C Sharp\Array & List\Array & List\bin\Debug\net8.0\Array & List.pdb
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\Array & List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\Array & List.AssemblyInfoInputs.cache
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\Array & List.AssemblyInfo.cs
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\Array & List.csproj.CoreCompileInputs.cache
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\Array & List.sourcelink.json
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\Array & List.dll
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\refint\Array & List.dll
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\Array & List.pdb
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\Array & List.genruntimeconfig.cache
+D:\Coding Playground\C Sharp\Array & List\Array & List\obj\Debug\net8.0\ref\Array & List.dll

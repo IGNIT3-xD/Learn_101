@@ -1,0 +1,15 @@
+D:\Coding Playground\C Sharp\Loops\Loops\bin\Debug\net8.0\Loops.exe
+D:\Coding Playground\C Sharp\Loops\Loops\bin\Debug\net8.0\Loops.deps.json
+D:\Coding Playground\C Sharp\Loops\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+D:\Coding Playground\C Sharp\Loops\Loops\bin\Debug\net8.0\Loops.dll
+D:\Coding Playground\C Sharp\Loops\Loops\bin\Debug\net8.0\Loops.pdb
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\Loops.dll
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\refint\Loops.dll
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\Loops.pdb
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+D:\Coding Playground\C Sharp\Loops\Loops\obj\Debug\net8.0\ref\Loops.dll
